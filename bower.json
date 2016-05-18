@@ -4,7 +4,7 @@
   "version": "0.0.3",
   "homepage": "https://github.com/chadyred/Stroke-Gap-Icons-Webfont",
   "license": "MIT",
-  "private": true,
+  "private": false,
   "main" : [
     "style.css",
     "fonts/Stroke-Gap-Icons.eot",
