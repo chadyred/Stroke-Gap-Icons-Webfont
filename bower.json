@@ -8,5 +8,9 @@
   "main" : [
     "style.css",
     "./fonts/*"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/chadyred/Stroke-Gap-Icons-Webfont.git"
+  }
 }
