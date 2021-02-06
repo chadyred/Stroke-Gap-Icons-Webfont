@@ -1,0 +1,19 @@
+{
+  "name": "stroke-gap-icons-webfont",
+  "description": "Stroke-Gap-Icons-Webfont",
+  "version": "0.0.4",
+  "homepage": "https://github.com/chadyred/Stroke-Gap-Icons-Webfont",
+  "license": "MIT",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/chadyred/Stroke-Gap-Icons-Webfont.git"
+  },
+  "main" : [
+    "style.css",
+    "fonts/Stroke-Gap-Icons.eot",
+    "fonts/Stroke-Gap-Icons.svg",
+    "fonts/Stroke-Gap-Icons.ttf",
+    "fonts/Stroke-Gap-Icons.woff"
+  ]
+}
